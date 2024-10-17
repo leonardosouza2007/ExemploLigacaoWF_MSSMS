@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploLigacaoWF_MSSMS", "ExemploLigacaoWF_MSSMS\ExemploLigacaoWF_MSSMS.csproj", "{F476B381-5F60-4305-AF46-56724A6169D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F476B381-5F60-4305-AF46-56724A6169D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F476B381-5F60-4305-AF46-56724A6169D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F476B381-5F60-4305-AF46-56724A6169D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F476B381-5F60-4305-AF46-56724A6169D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EEA782B-44FF-417A-9F76-9BE0F2B80B99}
+	EndGlobalSection
+EndGlobal
